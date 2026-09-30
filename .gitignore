@@ -1,0 +1,21 @@
+# Environment & Secrets
+.env
+.env.local
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# OS / Editor temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Local logs and temporary evidence drafts
+*.tmp
+/tmp/
+*.bak
